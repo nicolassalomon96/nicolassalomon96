@@ -7,9 +7,9 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/nicolassalomon96](https://github.com/nicolassalomon96)-->
 
-- 💬 Ask me about **any topic related to computer vision and image processing. I’ll be delighted to help you**
+- 💬 Ask me about **any topic related to computer vision, image processing and neural networks. I’ll be delighted to help you**
 
-- 📫 How to reach me **nicolassalomon96@gmail.com**
+- 📫 How to reach me: **nicolassalomon96@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
