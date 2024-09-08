@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nicolás Salomón</h1>
 <h3 align="center">A passionate Electronic and Computer Vision Engineer from Argentina</h3>
 
-- 🔭 I’m currently working on my **MSc Thesis related to image processing applied to LiDAR sensors for autonomous vehicles** (awaiting defense)
+- 🔭 I’m currently working on my **MSc Thesis related to image processing applied to LiDAR sensors for autonomous vehicles** (work finished, awaiting defense)
 
 - 🌱 I’m currently learning **MySQL, MongoDB, AWS**
 
