@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MySQL, MongoDB, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nicolassalomon96](https://github.com/nicolassalomon96)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/nicolassalomon96](https://github.com/nicolassalomon96)-->
 
 - 💬 Ask me about **any topic related to computer vision and image processing. I’ll be delighted to help you**
 
