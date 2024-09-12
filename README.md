@@ -44,7 +44,7 @@
 <a href="https://github.com/nicolassalomon96/CV_projects/tree/main/face_attendance_app" target="_blank"><img src="https://github.com/nicolassalomon96/CV_projects/blob/main/face_attendance_app/images/Readme/output.png"></a>
 <p>
 <a href="https://github.com/nicolassalomon96/CV_projects/tree/main/face_attendance_app" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Take a look to an useful Face Attendance App that uses Mediapipe to extract the facial mesh and identify each user. You will be able to registrate new users and their registration datatime</p>
@@ -60,7 +60,7 @@
 <br>
 <p>
 <a href="https://github.com/nicolassalomon96/CV_projects/tree/main/security_camera_system" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>Control who enters your home and receive an alert notification.</p>
@@ -77,7 +77,7 @@
 <a href="https://github.com/nicolassalomon96/CV_projects/tree/main/vehicle_speed_estimation" target="_blank"><img src="https://github.com/nicolassalomon96/CV_projects/blob/main/vehicle_speed_estimation/images/screenshot.png"></a>
 <p>
 <a href="https://github.com/nicolassalomon96/CV_projects/tree/main/vehicle_speed_estimation" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Measure vehicle speed using a simple camera and image processing techniques</p>
@@ -91,10 +91,43 @@
 <a href="https://github.com/nicolassalomon96/CV_projects/tree/main/drone_segmentation" target="_blank"><img src="https://github.com/nicolassalomon96/CV_projects/blob/main/drone_segmentation/images/output_test.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/nicolassalomon96/CV_projects/tree/main/drone_segmentation" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Segment Drone Images using a custom U-net architecture and detect 23 different classes including landables areas.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Road Lane Detector </h3>
+<div align="center">
+<a href="https://github.com/nicolassalomon96/CV_projects/tree/main/road_line_detector" target="_blank"><img src="https://github.com/nicolassalomon96/CV_projects/blob/main/road_line_detector/images/output_frame.png"></a>
+<p>
+<a href="https://github.com/nicolassalomon96/CV_projects/tree/main/road_line_detector" target="_blank">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Lane detection system for autonomous vehicles employing different image processing and spatial transformation techniques.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Genetic Algorithm applied to an Autonomous Driving System</h3>
+<div align="center">
+<a href="https://github.com/nicolassalomon96/Genetic_Car" target="_blank"><img src="https://github.com/nicolassalomon96/CV_projects/blob/main/drone_segmentation/images/output_test.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/nicolassalomon96/Genetic_Car" target="_blank">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Genetic Algorithm to train an autonomous vehicle, enabling it to learn and optimize its driving on a simulated track efficiently.</p>
 </div>
                                                                                       
 </td>  
