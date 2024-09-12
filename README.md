@@ -121,7 +121,7 @@
 <td width="50%">
 <h3 align="center">Genetic Algorithm applied to an Autonomous Driving System</h3>
 <div align="center">
-<a href="https://github.com/nicolassalomon96/Genetic_Car" target="_blank"><img src="https://github.com/nicolassalomon96/CV_projects/blob/main/drone_segmentation/images/output_test.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/nicolassalomon96/Genetic_Car" target="_blank"><img src="https://github.com/nicolassalomon96/Genetic_Car/blob/main/images/radar_car.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/nicolassalomon96/Genetic_Car" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
